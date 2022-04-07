@@ -7,13 +7,13 @@ from os.path import isdir
 setup(
   name = 'eloquent_depthai',
   packages = ['eloquent_depthai'],
-  version = '0.0.1',
+  version = '0.0.2',
   license='MIT',
   description = 'Eloquent interface to Luxonis DepthAI cameras',
   author = 'Eloquent Arduino',
   author_email = 'support@eloquentarduino.com',
   url = 'https://github.com/eloquentarduino/eloquent_depthai',
-  download_url = 'https://github.com/eloquentarduino/eloquent_depthai/blob/master/dist/eloquent_depthai-0.0.1.tar.gz?raw=true',
+  download_url = 'https://github.com/eloquentarduino/eloquent_depthai/blob/master/dist/eloquent_depthai-0.0.2.tar.gz?raw=true',
   keywords = [
     'CV',
     'Computer Vision'

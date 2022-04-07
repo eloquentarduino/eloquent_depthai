@@ -9,7 +9,7 @@ To preview a realtime stream of the disparity camera:
 
 ```python
 from eloquent_depthai import DepthCamera
-from eloquent_depthai.DepthPreview import DepthPreview
+from eloquent_depthai.preview import DepthPreview
 
 
 if __name__ == '__main__':
